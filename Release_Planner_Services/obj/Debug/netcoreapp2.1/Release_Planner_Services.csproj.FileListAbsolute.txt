@@ -1,0 +1,14 @@
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\bin\Debug\netcoreapp2.1\Release_Planner_Services.deps.json
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\bin\Debug\netcoreapp2.1\Release_Planner_Services.runtimeconfig.json
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\bin\Debug\netcoreapp2.1\Release_Planner_Services.runtimeconfig.dev.json
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\bin\Debug\netcoreapp2.1\Release_Planner_Services.dll
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.csproj.CoreCompileInputs.cache
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.RazorAssemblyInfo.cache
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.RazorAssemblyInfo.cs
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.AssemblyInfoInputs.cache
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.AssemblyInfo.cs
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.RazorTargetAssemblyInfo.cache
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.dll
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.pdb
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\obj\Debug\netcoreapp2.1\Release_Planner_Services.csprojAssemblyReference.cache
+D:\Users\KaushiA1\source\repos\Release_Planner_Services\Release_Planner_Services\bin\Debug\netcoreapp2.1\Release_Planner_Services.pdb
